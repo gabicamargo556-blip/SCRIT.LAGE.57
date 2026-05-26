@@ -4,7 +4,7 @@ local KeysValidas = {
     "LK-1237",
     "LK-2026",
     "TESTE-001",
-    "VIP-LK"
+    "KEYAUTH-LK7G98WMCNB035"
 }
 
 local key = _G.LKKEY
