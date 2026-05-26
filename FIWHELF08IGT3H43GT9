@@ -1,7 +1,7 @@
 --// GLOBAL KEY SYSTEM
 
 local KeysValidas = {
-    "LK-1235",
+    "LK-1237",
     "LK-2026",
     "VIP-LK"
 }
